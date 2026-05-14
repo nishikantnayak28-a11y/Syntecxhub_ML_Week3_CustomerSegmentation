@@ -1,0 +1,77 @@
+======================================================================
+CUSTOMER SEGMENTATION REPORT
+======================================================================
+Generated: 2026-05-14 12:39:47
+
+
+----------------------------------------------------------------------
+SEGMENT 0: Budget Conscious
+----------------------------------------------------------------------
+
+Customer Base:
+  • Total Customers: 11
+  • Percentage: 42.3%
+
+Demographics:
+  • Average Age: 27.0 years
+  • Age Range: 24-30 years
+  • Average Income: $35091
+  • Income Range: $28000-$42000
+
+Behavior:
+  • Average Spending Score: 56.5/100
+  • Spending Range: 45-70
+
+Recommended Marketing Actions:
+  1. Offer discounts and promotional deals
+  2. Bundle products for value pricing
+  3. Loyalty program with cashback rewards
+  4. Email campaigns for clearance sales
+
+----------------------------------------------------------------------
+SEGMENT 1: Moderate Spenders
+----------------------------------------------------------------------
+
+Customer Base:
+  • Total Customers: 7
+  • Percentage: 26.9%
+
+Demographics:
+  • Average Age: 42.0 years
+  • Age Range: 39-45 years
+  • Average Income: $62143
+  • Income Range: $56000-$70000
+
+Behavior:
+  • Average Spending Score: 80.1/100
+  • Spending Range: 76-85
+
+Recommended Marketing Actions:
+  1. Cross-sell complementary products
+  2. Seasonal offers and exclusive collections
+  3. VIP member benefits
+  4. Personalized product recommendations
+
+----------------------------------------------------------------------
+SEGMENT 2: Premium Customers
+----------------------------------------------------------------------
+
+Customer Base:
+  • Total Customers: 8
+  • Percentage: 30.8%
+
+Demographics:
+  • Average Age: 34.5 years
+  • Age Range: 31-38 years
+  • Average Income: $50000
+  • Income Range: $45000-$55000
+
+Behavior:
+  • Average Spending Score: 70.5/100
+  • Spending Range: 65-75
+
+Recommended Marketing Actions:
+  1. Premium/luxury product lines
+  2. Exclusive early access to new collections
+  3. Concierge/priority customer service
+  4. Invite-only events and special experiences

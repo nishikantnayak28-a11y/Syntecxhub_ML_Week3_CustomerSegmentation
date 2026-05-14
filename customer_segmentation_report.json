@@ -1,0 +1,100 @@
+{
+  "generated_at": "2026-05-14T12:39:47.941815",
+  "total_customers": 26,
+  "total_segments": 3,
+  "segments": [
+    {
+      "segment_id": 0,
+      "segment_name": "Budget Conscious",
+      "customer_count": 11,
+      "percentage": 42.3,
+      "demographics": {
+        "avg_age": 27.0,
+        "age_range": [
+          24,
+          30
+        ],
+        "avg_income": 35091.0,
+        "income_range": [
+          28000,
+          42000
+        ]
+      },
+      "behavior": {
+        "avg_spending_score": 56.5,
+        "spending_range": [
+          45,
+          70
+        ]
+      },
+      "marketing_actions": [
+        "Offer discounts and promotional deals",
+        "Bundle products for value pricing",
+        "Loyalty program with cashback rewards",
+        "Email campaigns for clearance sales"
+      ]
+    },
+    {
+      "segment_id": 1,
+      "segment_name": "Moderate Spenders",
+      "customer_count": 7,
+      "percentage": 26.9,
+      "demographics": {
+        "avg_age": 42.0,
+        "age_range": [
+          39,
+          45
+        ],
+        "avg_income": 62143.0,
+        "income_range": [
+          56000,
+          70000
+        ]
+      },
+      "behavior": {
+        "avg_spending_score": 80.1,
+        "spending_range": [
+          76,
+          85
+        ]
+      },
+      "marketing_actions": [
+        "Cross-sell complementary products",
+        "Seasonal offers and exclusive collections",
+        "VIP member benefits",
+        "Personalized product recommendations"
+      ]
+    },
+    {
+      "segment_id": 2,
+      "segment_name": "Premium Customers",
+      "customer_count": 8,
+      "percentage": 30.8,
+      "demographics": {
+        "avg_age": 34.5,
+        "age_range": [
+          31,
+          38
+        ],
+        "avg_income": 50000.0,
+        "income_range": [
+          45000,
+          55000
+        ]
+      },
+      "behavior": {
+        "avg_spending_score": 70.5,
+        "spending_range": [
+          65,
+          75
+        ]
+      },
+      "marketing_actions": [
+        "Premium/luxury product lines",
+        "Exclusive early access to new collections",
+        "Concierge/priority customer service",
+        "Invite-only events and special experiences"
+      ]
+    }
+  ]
+}
